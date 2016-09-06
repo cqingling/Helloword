@@ -1,3 +1,3 @@
 # Helloword
 just another repository
-# first decelopment
+# first development
